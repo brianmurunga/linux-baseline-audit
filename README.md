@@ -1,6 +1,3 @@
-# linux-baseline-audit
-A read-only-first Linux baseline auditing tool for system inventory, security checks, evidence collection and structured reporting.
-
 # Linux Baseline Audit
 
 **A read-only-first Bash script that inventories a Linux host, checks a
