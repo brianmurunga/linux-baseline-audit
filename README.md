@@ -17,7 +17,7 @@ the summary at the top of the report, decide what to investigate further.
 ## Quick start
 
 ```bash
-git clone https://example.com/your-user/linux-baseline-audit.git
+git clone https://github.com/brianmurunga/linux-baseline-audit.git
 cd linux-baseline-audit
 chmod +x baseline_audit.sh
 
